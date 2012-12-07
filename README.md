@@ -1,6 +1,6 @@
 # sample-webapi-authcode-java
 
-This sample application uses JavaFX to display a browser window where a user can log in with their Tradestation credentials. After a successful login, an authorization code is returned. This authorization code is then exchanged for an access token which will be used for subsequent WebAPI calls.
+This sample application uses JavaFX to display a browser window where a user can log in with their TradeStation credentials. After a successful login, an authorization code is returned. This authorization code is then exchanged for an access token which will be used for subsequent WebAPI calls.
 
 ## Configuration
 Modify the following with your appropriate values:
@@ -17,4 +17,4 @@ Modify the following with your appropriate values:
 * Build and Run
 
 ## Troubleshooting
-If you run into any access restrictions with any imported packages, then remove JRE Sstem Library from your Eclipse Java Build path and then re-add it. Be sure that your JRE System Librar is pointing to the latest JDK instead of JRE. If there are futher problems, open an [issue](https://github.com/tradestation/sample-webapi-authcode-java/issues) and we'll take a look!
+If you run into any access restrictions with any imported packages, then remove JRE System Library from your Eclipse Java Build path and then re-add it. Be sure that your JRE System Library is pointing to the latest JDK instead of JRE. If there are further problems, open an [issue](https://github.com/tradestation/sample-webapi-authcode-java/issues) and we'll take a look!
