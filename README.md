@@ -17,4 +17,6 @@ Modify the following with your appropriate values:
 * Build and Run
 
 ## Troubleshooting
-If you run into any access restrictions with any imported packages, then remove JRE System Library from your Eclipse Java Build path and then re-add it. Be sure that your JRE System Library is pointing to the latest JDK instead of JRE. If there are further problems, open an [issue](https://github.com/tradestation/sample-webapi-authcode-java/issues) and we'll take a look!
+If you run into any access restrictions with any imported packages, then remove JRE System Library from your Eclipse Java Build path and then re-add it. Be sure that your JRE System Library is pointing to the latest JDK instead of JRE. 
+
+If there are any problems, open an [issue](sample-webapi-authcode-java/issues) and we'll take a look! You can also give us feedback by e-mailing webapi@tradestation.com.
